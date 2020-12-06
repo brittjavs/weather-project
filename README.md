@@ -1,2 +1,2 @@
 # weather-project
-Fetch Data from OpenWeatherMap 
+Fetch and display data from OpenWeatherMap 
