@@ -1,0 +1,22 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "Fetch and display data from OpenWeatherMap",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brittjavs/weather-project.git"
+  },
+  "author": "Britt Javalera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brittjavs/weather-project/issues"
+  },
+  "homepage": "https://github.com/brittjavs/weather-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
